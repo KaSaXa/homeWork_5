@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+// Попытка создать пул реквест
 // task 1
         int clientOS = 0; // 0 - iOS, 1 - Android
 
